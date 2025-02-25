@@ -1222,7 +1222,7 @@ Help_Text_DefineAttack::
 	.string "the more powerful the move.\l"
 	.string "It is applied for the following move\l"
 	.string "types: NORMAL, POISON, GROUND,\l"
-	.string "FLYING, BUG, FIGHTING, ROCK, GHOST,\l"
+	.string "FLYING, BUG, FIGHTING, ROCK, DARK,\l"
 	.string "and STEEL.$"
 
 Help_Text_DefineDefense::
@@ -1238,7 +1238,7 @@ Help_Text_DefineSpAtk::
 	.string "the special attack move.\l"
 	.string "It is applied for the following move\l"
 	.string "types: FIRE, WATER, ELECTRIC, GRASS,\l"
-	.string "ICE, PSYCHIC, DRAGON, and DARK.$"
+	.string "ICE, PSYCHIC, DRAGON, and GHOST.$"
 
 Help_Text_DefineSpDef::
 	.string "SP. DEF (Special Defense) indicates\n"
