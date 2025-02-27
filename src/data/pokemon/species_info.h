@@ -3053,7 +3053,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_MAROWAK] =
     {
-        .baseHP = 60,
+        .baseHP = 65,
         .baseAttack = 80,
         .baseDefense = 110,
         .baseSpeed = 45,
@@ -3084,7 +3084,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     {
         .baseHP = 50,
         .baseAttack = 120,
-        .baseDefense = 53,
+        .baseDefense = 58,
         .baseSpeed = 87,
         .baseSpAttack = 35,
         .baseSpDefense = 110,
@@ -3114,7 +3114,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseHP = 50,
         .baseAttack = 105,
         .baseDefense = 79,
-        .baseSpeed = 76,
+        .baseSpeed = 81,
         .baseSpAttack = 35,
         .baseSpDefense = 110,
         .types = {TYPE_FIGHTING, TYPE_FIGHTING},
@@ -3140,12 +3140,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_LICKITUNG] =
     {
-        .baseHP = 90,
-        .baseAttack = 55,
-        .baseDefense = 75,
+        .baseHP = 95,
+        .baseAttack = 70,
+        .baseDefense = 85,
         .baseSpeed = 30,
-        .baseSpAttack = 60,
-        .baseSpDefense = 75,
+        .baseSpAttack = 75,
+        .baseSpDefense = 85,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 45,
         .expYield = 127,
@@ -3198,7 +3198,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_WEEZING] =
     {
-        .baseHP = 65,
+        .baseHP = 75,
         .baseAttack = 90,
         .baseDefense = 120,
         .baseSpeed = 60,
