@@ -735,10 +735,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     {
         .baseHP = 35,
         .baseAttack = 55,
-        .baseDefense = 30,
+        .baseDefense = 40,
         .baseSpeed = 90,
         .baseSpAttack = 50,
-        .baseSpDefense = 40,
+        .baseSpDefense = 50,
         .types = {TYPE_ELECTRIC, TYPE_ELECTRIC},
         .catchRate = 190,
         .expYield = 82,
