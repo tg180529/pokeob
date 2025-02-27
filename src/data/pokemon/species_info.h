@@ -9951,7 +9951,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_GULPIN] =
     {
-        .baseHP = 70,
+        .baseHP = 85,
         .baseAttack = 43,
         .baseDefense = 53,
         .baseSpeed = 40,
@@ -9980,7 +9980,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_SWALOT] =
     {
-        .baseHP = 100,
+        .baseHP = 115,
         .baseAttack = 73,
         .baseDefense = 83,
         .baseSpeed = 55,
@@ -10009,11 +10009,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_TROPIUS] =
     {
-        .baseHP = 99,
-        .baseAttack = 68,
+        .baseHP = 120,
+        .baseAttack = 65,
         .baseDefense = 83,
         .baseSpeed = 51,
-        .baseSpAttack = 72,
+        .baseSpAttack = 85,
         .baseSpDefense = 87,
         .types = {TYPE_GRASS, TYPE_FLYING},
         .catchRate = 200,
