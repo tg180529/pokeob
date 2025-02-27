@@ -10068,7 +10068,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_LOUDRED] =
     {
         .baseHP = 84,
-        .baseAttack = 71,
+        .baseAttack = 76,
         .baseDefense = 43,
         .baseSpeed = 48,
         .baseSpAttack = 71,
@@ -10096,12 +10096,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_EXPLOUD] =
     {
-        .baseHP = 104,
-        .baseAttack = 91,
-        .baseDefense = 63,
+        .baseHP = 114,
+        .baseAttack = 101,
+        .baseDefense = 73,
         .baseSpeed = 68,
         .baseSpAttack = 91,
-        .baseSpDefense = 63,
+        .baseSpDefense = 73,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 45,
         .expYield = 184,
