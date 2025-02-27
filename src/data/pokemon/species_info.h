@@ -7921,11 +7921,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_LUDICOLO] =
     {
-        .baseHP = 80,
+        .baseHP = 90,
         .baseAttack = 70,
         .baseDefense = 70,
         .baseSpeed = 70,
-        .baseSpAttack = 90,
+        .baseSpAttack = 100,
         .baseSpDefense = 100,
         .types = {TYPE_WATER, TYPE_GRASS},
         .catchRate = 45,
@@ -8009,10 +8009,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_SHIFTRY] =
     {
         .baseHP = 90,
-        .baseAttack = 100,
+        .baseAttack = 110,
         .baseDefense = 60,
-        .baseSpeed = 80,
-        .baseSpAttack = 90,
+        .baseSpeed = 85,
+        .baseSpAttack = 95,
         .baseSpDefense = 60,
         .types = {TYPE_GRASS, TYPE_DARK},
         .catchRate = 45,
@@ -8099,7 +8099,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack = 90,
         .baseDefense = 45,
         .baseSpeed = 40,
-        .baseSpAttack = 30,
+        .baseSpAttack = 75,
         .baseSpDefense = 30,
         .types = {TYPE_BUG, TYPE_GHOST},
         .catchRate = 45,
