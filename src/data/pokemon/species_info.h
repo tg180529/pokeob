@@ -6533,11 +6533,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_DELIBIRD] =
     {
-        .baseHP = 45,
-        .baseAttack = 55,
-        .baseDefense = 45,
-        .baseSpeed = 75,
-        .baseSpAttack = 65,
+        .baseHP = 60,
+        .baseAttack = 75,
+        .baseDefense = 55,
+        .baseSpeed = 80,
+        .baseSpAttack = 85,
         .baseSpDefense = 45,
         .types = {TYPE_ICE, TYPE_FLYING},
         .catchRate = 45,
@@ -6563,7 +6563,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_MANTINE] =
     {
         .baseHP = 65,
-        .baseAttack = 40,
+        .baseAttack = 50,
         .baseDefense = 70,
         .baseSpeed = 70,
         .baseSpAttack = 80,
@@ -6884,7 +6884,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseHP = 50,
         .baseAttack = 95,
         .baseDefense = 95,
-        .baseSpeed = 70,
+        .baseSpeed = 75,
         .baseSpAttack = 35,
         .baseSpDefense = 110,
         .types = {TYPE_FIGHTING, TYPE_FIGHTING},
