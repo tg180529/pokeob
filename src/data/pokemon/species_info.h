@@ -675,10 +675,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_EKANS] =
     {
-        .baseHP = 35,
-        .baseAttack = 60,
+        .baseHP = 40,
+        .baseAttack = 65,
         .baseDefense = 44,
-        .baseSpeed = 55,
+        .baseSpeed = 60,
         .baseSpAttack = 40,
         .baseSpDefense = 54,
         .types = {TYPE_POISON, TYPE_POISON},
