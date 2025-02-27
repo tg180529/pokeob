@@ -704,10 +704,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_ARBOK] =
     {
-        .baseHP = 60,
-        .baseAttack = 85,
+        .baseHP = 62,
+        .baseAttack = 95,
         .baseDefense = 69,
-        .baseSpeed = 80,
+        .baseSpeed = 90,
         .baseSpAttack = 65,
         .baseSpDefense = 79,
         .types = {TYPE_POISON, TYPE_POISON},
