@@ -3460,7 +3460,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_SEAKING] =
     {
         .baseHP = 80,
-        .baseAttack = 92,
+        .baseAttack = 100,
         .baseDefense = 65,
         .baseSpeed = 68,
         .baseSpAttack = 65,
@@ -3662,7 +3662,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_MAGMAR] =
     {
-        .baseHP = 65,
+        .baseHP = 75,
         .baseAttack = 95,
         .baseDefense = 57,
         .baseSpeed = 93,
@@ -3956,8 +3956,8 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack = 130,
         .baseDefense = 60,
         .baseSpeed = 65,
-        .baseSpAttack = 95,
-        .baseSpDefense = 110,
+        .baseSpAttack = 110,
+        .baseSpDefense = 95,
         .types = {TYPE_FIRE, TYPE_FIRE},
         .catchRate = 45,
         .expYield = 198,
@@ -3981,8 +3981,8 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_PORYGON] =
     {
-        .baseHP = 65,
-        .baseAttack = 60,
+        .baseHP = 75,
+        .baseAttack = 70,
         .baseDefense = 70,
         .baseSpeed = 40,
         .baseSpAttack = 85,
