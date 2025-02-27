@@ -7085,10 +7085,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_ENTEI] =
     {
         .baseHP = 115,
-        .baseAttack = 115,
+        .baseAttack = 90,
         .baseDefense = 85,
         .baseSpeed = 100,
-        .baseSpAttack = 90,
+        .baseSpAttack = 115,
         .baseSpDefense = 75,
         .types = {TYPE_FIRE, TYPE_FIRE},
         .catchRate = 3,
