@@ -1430,10 +1430,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_VENOMOTH] =
     {
         .baseHP = 70,
-        .baseAttack = 65,
+        .baseAttack = 75,
         .baseDefense = 60,
-        .baseSpeed = 90,
-        .baseSpAttack = 90,
+        .baseSpeed = 100,
+        .baseSpAttack = 95,
         .baseSpDefense = 75,
         .types = {TYPE_BUG, TYPE_POISON},
         .catchRate = 75,
@@ -1488,7 +1488,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_DUGTRIO] =
     {
         .baseHP = 35,
-        .baseAttack = 80,
+        .baseAttack = 90,
         .baseDefense = 50,
         .baseSpeed = 120,
         .baseSpAttack = 50,
