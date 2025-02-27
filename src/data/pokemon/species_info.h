@@ -8472,12 +8472,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_DELCATTY] =
     {
-        .baseHP = 70,
-        .baseAttack = 65,
-        .baseDefense = 65,
-        .baseSpeed = 70,
-        .baseSpAttack = 55,
-        .baseSpDefense = 55,
+        .baseHP = 75,
+        .baseAttack = 70,
+        .baseDefense = 70,
+        .baseSpeed = 95,
+        .baseSpAttack = 75,
+        .baseSpDefense = 65,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 60,
         .expYield = 138,
@@ -8501,11 +8501,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_KECLEON] =
     {
-        .baseHP = 60,
+        .baseHP = 75,
         .baseAttack = 90,
         .baseDefense = 70,
         .baseSpeed = 40,
-        .baseSpAttack = 60,
+        .baseSpAttack = 70,
         .baseSpDefense = 120,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 200,
