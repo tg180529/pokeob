@@ -9806,11 +9806,11 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_DUSCLOPS] =
     {
-        .baseHP = 40,
-        .baseAttack = 70,
+        .baseHP = 65,
+        .baseAttack = 60,
         .baseDefense = 130,
         .baseSpeed = 25,
-        .baseSpAttack = 60,
+        .baseSpAttack = 75,
         .baseSpDefense = 130,
         .types = {TYPE_GHOST, TYPE_GHOST},
         .catchRate = 90,
@@ -9835,12 +9835,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_ROSELIA] =
     {
-        .baseHP = 50,
-        .baseAttack = 60,
-        .baseDefense = 45,
-        .baseSpeed = 65,
-        .baseSpAttack = 100,
-        .baseSpDefense = 80,
+        .baseHP = 55,
+        .baseAttack = 65,
+        .baseDefense = 50,
+        .baseSpeed = 75,
+        .baseSpAttack = 115,
+        .baseSpDefense = 95,
         .types = {TYPE_GRASS, TYPE_POISON},
         .catchRate = 150,
         .expYield = 152,
