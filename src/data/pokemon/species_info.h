@@ -1170,10 +1170,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     {
         .baseHP = 140,
         .baseAttack = 70,
-        .baseDefense = 45,
+        .baseDefense = 55,
         .baseSpeed = 45,
-        .baseSpAttack = 75,
-        .baseSpDefense = 50,
+        .baseSpAttack = 85,
+        .baseSpDefense = 55,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 50,
         .expYield = 109,
@@ -1255,7 +1255,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_ODDISH] =
     {
-        .baseHP = 45,
+        .baseHP = 50,
         .baseAttack = 50,
         .baseDefense = 55,
         .baseSpeed = 30,
@@ -1284,7 +1284,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_GLOOM] =
     {
-        .baseHP = 60,
+        .baseHP = 70,
         .baseAttack = 65,
         .baseDefense = 70,
         .baseSpeed = 40,
@@ -1313,9 +1313,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_VILEPLUME] =
     {
-        .baseHP = 75,
+        .baseHP = 90,
         .baseAttack = 80,
-        .baseDefense = 85,
+        .baseDefense = 95,
         .baseSpeed = 50,
         .baseSpAttack = 100,
         .baseSpDefense = 90,
