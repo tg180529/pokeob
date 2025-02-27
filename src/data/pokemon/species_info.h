@@ -11227,12 +11227,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_CHIMECHO] =
     {
-        .baseHP = 65,
+        .baseHP = 75,
         .baseAttack = 50,
-        .baseDefense = 70,
+        .baseDefense = 80,
         .baseSpeed = 65,
         .baseSpAttack = 95,
-        .baseSpDefense = 80,
+        .baseSpDefense = 90,
         .types = {TYPE_PSYCHIC, TYPE_PSYCHIC},
         .catchRate = 45,
         .expYield = 147,
