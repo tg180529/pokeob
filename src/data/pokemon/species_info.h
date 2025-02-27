@@ -10415,10 +10415,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_LAIRON] =
     {
-        .baseHP = 60,
+        .baseHP = 80,
         .baseAttack = 90,
         .baseDefense = 140,
-        .baseSpeed = 40,
+        .baseSpeed = 30,
         .baseSpAttack = 50,
         .baseSpDefense = 50,
         .types = {TYPE_STEEL, TYPE_ROCK},
@@ -10444,10 +10444,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_AGGRON] =
     {
-        .baseHP = 70,
+        .baseHP = 90,
         .baseAttack = 110,
         .baseDefense = 180,
-        .baseSpeed = 50,
+        .baseSpeed = 30,
         .baseSpAttack = 60,
         .baseSpDefense = 60,
         .types = {TYPE_STEEL, TYPE_ROCK},
@@ -10473,12 +10473,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_CASTFORM] =
     {
-        .baseHP = 70,
+        .baseHP = 75,
         .baseAttack = 70,
-        .baseDefense = 70,
-        .baseSpeed = 70,
-        .baseSpAttack = 70,
-        .baseSpDefense = 70,
+        .baseDefense = 75,
+        .baseSpeed = 90,
+        .baseSpAttack = 85,
+        .baseSpDefense = 75,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 45,
         .expYield = 145,
