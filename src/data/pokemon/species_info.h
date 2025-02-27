@@ -4710,7 +4710,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseAttack = 76,
         .baseDefense = 64,
         .baseSpeed = 90,
-        .baseSpAttack = 45,
+        .baseSpAttack = 55,
         .baseSpDefense = 55,
         .types = {TYPE_NORMAL, TYPE_NORMAL},
         .catchRate = 90,
@@ -4822,7 +4822,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_LEDIAN] =
     {
-        .baseHP = 55,
+        .baseHP = 75,
         .baseAttack = 35,
         .baseDefense = 50,
         .baseSpeed = 85,
@@ -4883,9 +4883,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .baseHP = 70,
         .baseAttack = 90,
         .baseDefense = 70,
-        .baseSpeed = 40,
-        .baseSpAttack = 60,
-        .baseSpDefense = 60,
+        .baseSpeed = 80,
+        .baseSpAttack = 70,
+        .baseSpDefense = 70,
         .types = {TYPE_BUG, TYPE_POISON},
         .catchRate = 90,
         .expYield = 134,
@@ -5112,8 +5112,8 @@ const struct SpeciesInfo gSpeciesInfo[] =
     },
     [SPECIES_TOGETIC] =
     {
-        .baseHP = 55,
-        .baseAttack = 40,
+        .baseHP = 85,
+        .baseAttack = 50,
         .baseDefense = 85,
         .baseSpeed = 40,
         .baseSpAttack = 80,
