@@ -2603,7 +2603,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_OUTRAGE] =
     {
         .effect = EFFECT_RAMPAGE,
-        .power = 90,
+        .power = 110,
         .type = TYPE_DRAGON,
         .accuracy = 100,
         .pp = 15,
@@ -2928,7 +2928,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_DRAGON_BREATH] =
     {
         .effect = EFFECT_PARALYZE_HIT,
-        .power = 60,
+        .power = 70,
         .type = TYPE_DRAGON,
         .accuracy = 100,
         .pp = 20,
@@ -3110,7 +3110,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_TWISTER] =
     {
         .effect = EFFECT_TWISTER,
-        .power = 40,
+        .power = 50,
         .type = TYPE_DRAGON,
         .accuracy = 100,
         .pp = 20,
@@ -4384,7 +4384,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_DRAGON_CLAW] =
     {
         .effect = EFFECT_HIT,
-        .power = 80,
+        .power = 90,
         .type = TYPE_DRAGON,
         .accuracy = 100,
         .pp = 15,
